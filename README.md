@@ -1,4 +1,5 @@
 Chatbot AtlasX Logística - Arquitetura Modular Blip – LEONARDO LINS
+
 Este projeto foi desenvolvido como parte do teste técnico para a vaga de Desenvolvedor de Chatbot na Myde. O sistema utiliza a plataforma Blip e segue uma arquitetura modularizada para garantir escalabilidade, performance e facilidade de manutenção.
 Estrutura do Projeto
 O ecossistema é composto por 8 chatbots independentes integrados via Roteador:
