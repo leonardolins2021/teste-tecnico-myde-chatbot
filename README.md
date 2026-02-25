@@ -10,7 +10,7 @@ O ecossistema é composto por 8 chatbots independentes integrados via Roteador:
 6.   Atendimento Humano: Transbordo para suporte manual em casos críticos.
 7.   Cascata de Validação: Tratamento de falhas de integração e regras de fallback.
 8.   Finalização: Encerramento padronizado da sessão.
-9.   
+   
 Tecnologias e Integrações
 
 •     Plataforma: Blip (Builder e Roteador).
